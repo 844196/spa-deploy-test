@@ -1,4 +1,4 @@
-# spa-deploy-test
+# spa-deploy-test [![CircleCI](https://circleci.com/gh/844196/spa-deploy-test/tree/master.svg?style=shield&circle-token=50104466454d6581025597fb24b20e390bedf88d)](https://circleci.com/gh/844196/spa-deploy-test/tree/master)
 
 > A Vue.js project
 
